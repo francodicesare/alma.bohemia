@@ -1,0 +1,79 @@
+nav li:last-of-type a {
+    margin-right: 0;
+}
+
+ul, ol{
+    list-style-type: none;
+}
+a {
+    text-decoration: none !important;
+}
+
+a {
+    margin-right: 10px;
+    
+}
+
+.contenedor {
+    width: 70%;
+    margin: 0 auto;
+    padding: 3em 0;
+}
+
+footer {
+    background-color: #323232;
+    color:white;
+}
+
+.footer-contenido {
+    padding: 1rem 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+ul {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+ul a{
+    color: white;
+}
+.fondo{
+    background-color:#3b3b3b;
+    border-top-style: inset;
+    border-top-color: white;
+    border-width: 1px;
+}
+#whatsapp {
+    position: fixed;
+    bottom: 20px;
+    right:20px;
+}
+svg {
+    width: 80px;
+    filter: drop-shadow(0 1px 4px rgba(0,0,0,.4));
+}
+circle {
+    fill: #25d366;
+}
+path {
+    fill: #fff;
+}
+#arriba {
+    position: fixed;
+    bottom: 20px;
+    left:20px;
+}
+form{
+    color: white;
+}
+#img{
+    background-image: url(/img/img_6845.jpg);
+    background-position: center;
+}
+form input, form textarea{
+    display: block;    
+    }
