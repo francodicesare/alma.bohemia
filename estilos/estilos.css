@@ -71,7 +71,7 @@ form{
     color: white;
 }
 #img{
-    background-image: url(/img/img_6845.jpg);
+    background-image: url(./img/img_6845.jpg);
     background-position: center;
 }
 form input, form textarea{
